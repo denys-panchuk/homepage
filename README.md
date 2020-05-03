@@ -1,2 +1,2 @@
-# homepage
-My very own personal website. Basically this is just a résumé
+# Resume
+Hello, it's my short public resume.
