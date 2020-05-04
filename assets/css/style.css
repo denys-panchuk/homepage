@@ -1,0 +1,21 @@
+.selected-year {
+  font-weight: bolder;
+  color: cadetblue;
+}
+
+#wave {
+  color: lightseagreen;
+  padding-top: calc((100% - 427px) / 2);
+  height: 7em;
+  box-sizing: content-box;
+  background: currentColor;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+}
+#wave svg {
+  display: block;
+  position: relative;
+  top: calc(3em - 1px);
+}
