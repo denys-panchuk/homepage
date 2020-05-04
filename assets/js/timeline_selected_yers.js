@@ -1,3 +1,5 @@
+// I know it should be in css but that one isn't my best
+
 let timeLines = document.querySelectorAll(".timeline");
 
 let timeLinesItems = [];
